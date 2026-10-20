@@ -1,0 +1,1 @@
+{"_class_name": "Flux3Transformer2DModel", "hidden_size": 3072, "num_heads": 24, "depth": 5, "depth_single_blocks": 28, "in_channels": 128, "txt_dim": 20480, "note": "real values are read from the checkpoint at load time"}

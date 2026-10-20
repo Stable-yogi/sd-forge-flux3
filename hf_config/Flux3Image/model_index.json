@@ -1,0 +1,9 @@
+{
+  "_class_name": "Flux3ImagePipeline",
+  "_diffusers_version": "0.36.0.dev0",
+  "scheduler": ["diffusers", "FlowMatchEulerDiscreteScheduler"],
+  "text_encoder": ["transformers", "Qwen3VLModel"],
+  "tokenizer": ["transformers", "Qwen2Tokenizer"],
+  "transformer": ["diffusers", "Flux3Transformer2DModel"],
+  "vae": ["diffusers", "AutoencoderKLFlux2"]
+}
